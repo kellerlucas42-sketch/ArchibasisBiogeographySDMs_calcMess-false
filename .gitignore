@@ -2,6 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
-ClimateOnly/wc2.1_30s_bio_1.tif
-ClimateOnly/wc2.1_30s_bio_2.tif
-ClimateOnly/wc2.1_30s_bio_3.tif
+ClimateOnly/
+SDM_outputs/**/*.tif
+*.RData
